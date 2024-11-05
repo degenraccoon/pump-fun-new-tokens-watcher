@@ -2,7 +2,7 @@
 
 This is a simple, free to use bot that will monitor all newly listed tokens on pump.fun, filter them as you wish and add them to a notepad watchlist.
 
-## We also offer other ready to use bots such as, auto sinper, bump bot, volume bot for pump.fun and Solana. Contact @degenraccon on TG.
+## We also offer other ready to use bots such as, auto sniper, bump bot, volume bot for pump.fun and Solana. Contact @degenraccon on TG.
 
 ## What will you need for this script?
 
